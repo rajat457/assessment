@@ -12651,7 +12651,7 @@ body .vc-hoverbox-block,
 
 .quickfinder-item-box {
     position: relative;
-    padding: 50px;
+    padding: 0px 25px;
 }
 
 .quickfinder-item.col-md-2 .quickfinder-item-box,
