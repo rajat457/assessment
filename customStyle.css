@@ -1,0 +1,17 @@
+/* ---------------------professional-email-listing  */
+.panel .top-row {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 767px) {
+    .panel .top-row {
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+    }
+
+
+}
